@@ -126,13 +126,13 @@ plt.show()
 
 ![image](https://github.com/user-attachments/assets/00ea77ea-8e44-4a29-89bc-3c910959bae5)
 
-![image](https://github.com/user-attachments/assets/45db3a00-f9e5-4ca7-9e46-ced3afc1cb0a)
+<img width="575" height="351" alt="image" src="https://github.com/user-attachments/assets/3e426645-d18c-4945-b5c1-cebb97a86c0c" />
 
 ### FACE DETECTION :
 
 ![image](https://github.com/user-attachments/assets/30d19b40-2f43-4988-bf6f-6d67113ac6cd)
 
-![image](https://github.com/user-attachments/assets/1d612beb-8648-4eb2-9295-9ea48d9852e0)
+<img width="561" height="352" alt="image" src="https://github.com/user-attachments/assets/ba79d820-ebd5-448e-943b-91e0ab5c7767" />
 
 ### EYE DETECTION :
 
